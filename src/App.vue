@@ -2,9 +2,9 @@
   <MainHeader />
   <main>
     <section class="flex w-full items-center justify-center bg-dart-red-secondary">
-      <div class="max-w-screen-content py-8">
+      <div class="max-w-screen-content py-8 lg:w-full">
         <h3 class="mb-5 text-2xl font-semibold leading-133 text-dart-red-primary">Quarter-Final</h3>
-        <div class="flex flex-col gap-7 lg:flex-row">
+        <div class="flex flex-col gap-5 lg:flex-row">
           <DartCard v-for="(card, index) in cardData" :key="index" :data="card" />
         </div>
       </div>

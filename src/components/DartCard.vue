@@ -1,6 +1,6 @@
 <template>
   <div
-    class="relative flex items-center justify-start gap-7 rounded-10 bg-white p-5 shadow-dart-card before:absolute before:inset-0 before:h-full before:w-[5px] before:rounded-l-full before:bg-dart-red-primary before:content-['']"
+    class="relative flex items-center justify-start gap-6 rounded-10 bg-white p-5 shadow-dart-card before:absolute before:inset-0 before:h-full before:w-[5px] before:rounded-l-full before:bg-dart-red-primary before:content-['']"
   >
     <div
       class="text-sm leading-143 tracking-wide"
