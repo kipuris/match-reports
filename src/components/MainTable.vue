@@ -1,6 +1,6 @@
 <template>
   <div class="overflow-x-auto">
-    <table class="w-full table-auto rounded-10 bg-white">
+    <table class="mr-4 w-full table-auto rounded-10 bg-white lg:mr-0">
       <thead class="bg-dart-table-blue text-white">
         <tr>
           <th colspan="3" class="w-auto rounded-tl-10 px-6 py-3 text-center font-semibold">
@@ -73,9 +73,9 @@
         <tr class="text-sm leading-143">
           <td
             colspan="9"
-            class="rounded-bl-10 rounded-br-10 px-6 py-[10px] text-center text-primary"
+            class="rounded-bl-10 rounded-br-10 py-[10px] text-left text-primary lg:text-center"
           >
-            Match ID: 63973b8cd10cff3ecc1595ee
+            <span class="sticky left-0 h-fit px-6">Match ID: 63973b8cd10cff3ecc1595ee</span>
           </td>
         </tr>
       </tfoot>

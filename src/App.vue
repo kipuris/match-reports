@@ -17,13 +17,13 @@
         <div class="mx-4 my-5 lg:mx-0">
           <img :src="digitalSteelTopBanner" alt="Digital steel top banner" />
         </div>
-        <div class="mx-4 my-5 lg:mx-0">
+        <div class="my-5 ml-4 mr-0 md:mr-4 lg:mx-0">
           <OpponentsTable />
         </div>
         <div class="mx-4 my-5 lg:mx-0">
           <img :src="dartConnectBanner" alt="Dart connect banner" />
         </div>
-        <div class="mx-4 my-5 lg:mx-0">
+        <div class="my-5 ml-4 lg:mx-0">
           <MainTable />
         </div>
       </div>

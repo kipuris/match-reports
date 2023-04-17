@@ -24,9 +24,11 @@
           <a href="#" class="flex h-16 w-16 items-center">
             <IconSvg name="dartconnect-logo" />
           </a>
-          <div class="mx-auto">
+          <div class="mx-auto md:mx-10">
             <h1 class="mb-5 text-xl font-semibold leading-112">Match Report</h1>
-            <div class="max-w-xs text-sm font-semibold leading-133 text-dart-blue-primary">
+            <div
+              class="flex max-w-xs flex-col text-sm font-semibold leading-133 text-dart-blue-primary md:flex-row md:gap-4"
+            >
               <div>WDF WC Qualifiers 2022</div>
               <div>WC Qualifier Men</div>
             </div>

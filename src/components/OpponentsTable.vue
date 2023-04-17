@@ -1,6 +1,6 @@
 <template>
   <div class="overflow-x-auto">
-    <table class="w-full table-auto rounded-10 bg-white">
+    <table class="mr-4 w-full table-auto rounded-10 bg-white md:mr-0">
       <thead class="bg-dart-table-blue text-white">
         <tr>
           <th

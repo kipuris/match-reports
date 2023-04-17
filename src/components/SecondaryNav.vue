@@ -1,9 +1,9 @@
 <template>
   <nav
-    class="mx-2 mt-8 overflow-x-auto rounded-full bg-dart-red-primary lg:mx-0"
+    class="mt-8 overflow-x-auto rounded-none bg-dart-red-primary lg:rounded-full"
     aria-label="secondary"
   >
-    <ul class="flex w-full px-3 text-white lg:justify-around lg:gap-8 lg:px-0">
+    <ul class="flex w-full px-3 text-white md:justify-around lg:gap-8 lg:px-0">
       <li
         class="my-2 whitespace-nowrap rounded-full bg-white px-5 py-[10px] text-sm font-semibold leading-143 text-dart-red-primary"
       >
